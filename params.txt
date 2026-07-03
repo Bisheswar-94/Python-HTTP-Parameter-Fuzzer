@@ -1,0 +1,12 @@
+id
+user
+debug
+admin
+test
+redirect
+file
+page
+search
+token
+apikey
+cmd

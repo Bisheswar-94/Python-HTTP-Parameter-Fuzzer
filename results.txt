@@ -1,0 +1,12 @@
+[404] https://example.com/page.php?file=test | Length: 559
+[404] https://example.com/page.php?admin=test | Length: 559
+[404] https://example.com/page.php?redirect=test | Length: 559
+[404] https://example.com/page.php?user=test | Length: 559
+[404] https://example.com/page.php?debug=test | Length: 559
+[404] https://example.com/page.php?test=test | Length: 559
+[404] https://example.com/page.php?id=test | Length: 559
+[404] https://example.com/page.php?token=test | Length: 559
+[404] https://example.com/page.php?search=test | Length: 559
+[404] https://example.com/page.php?cmd=test | Length: 559
+[404] https://example.com/page.php?page=test | Length: 559
+[404] https://example.com/page.php?apikey=test | Length: 559
