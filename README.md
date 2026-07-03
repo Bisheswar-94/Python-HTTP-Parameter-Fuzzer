@@ -8,7 +8,7 @@ A beginner-friendly web fuzzing and reconnaissance tool built with Python.
 * Multi-threaded scanning
 * Response analysis
 * Status code detection
-* Colored terminal output
+* Colored coloram trampels
 * Automatic result saving
 
 ## Technologies Used
